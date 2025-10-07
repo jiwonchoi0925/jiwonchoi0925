@@ -1,5 +1,5 @@
 ## Hi there 👋
-ddd
+프론트엔드 개발자 최지원입니다😊
 <!--
 **jiwonchoi0925/jiwonchoi0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
